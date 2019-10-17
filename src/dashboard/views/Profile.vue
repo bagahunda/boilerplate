@@ -1,15 +1,9 @@
 <template>
-  <div>
-    Dashboard profile
-  </div>
+    <div>
+        Dashboard profile
+    </div>
 </template>
 
 <script>
-  export default {
-
-  }
+export default {};
 </script>
-
-<style lang="scss" scoped>
-
-</style>
