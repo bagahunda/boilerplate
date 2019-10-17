@@ -6,6 +6,7 @@ module.exports = {
   themeConfig: {
     sidebar: [
       ['/', 'Introduction'],
+      '/docs/apiLayer',
       '/docs/state',
       '/docs/editors',
       '/docs/linting',
